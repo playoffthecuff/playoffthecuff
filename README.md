@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![codewars](https://www.codewars.com/users/playoffthecuff/badges/large)](https://www.codewars.com/users/playoffthecuff)   
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
