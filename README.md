@@ -51,7 +51,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=playoffthecuff)](https://github.com/playoffthecuff/github-profile-trophy)
 
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=playoffthecuff)](https://github.com/playoffthecuff/github-readme-stats)
 
 <!--
 **playoffthecuff/playoffthecuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
