@@ -55,14 +55,8 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/playoffthecuff/playoffthecuff/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/playoffthecuff/playoffthecuff/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/playoffthecuff/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/playoffthecuff)
+- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/playoffthecuff)
 <!--
 **playoffthecuff/playoffthecuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=playoffthecuff)](https://github.com/playoffthecuff/github-readme-stats)
