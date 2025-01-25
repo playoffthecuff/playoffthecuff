@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![codewars](https://www.codewars.com/users/playoffthecuff/badges/large)](https://www.codewars.com/users/playoffthecuff)   
+<!-- [[![codewars](https://www.codewars.com/users/playoffthecuff/badges/large)](https://www.codewars.com/users/playoffthecuff)   
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
@@ -59,7 +59,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/playoffthecuff/playoffthecuff/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/playoffthecuff/playoffthecuff/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/playoffthecuff/playoffthecuff/output/github-snake.svg" />
-</picture>
+</picture>](url) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/playoffthecuff)
