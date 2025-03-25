@@ -54,12 +54,12 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/playoffthecuff/playoffthecuff/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/playoffthecuff/playoffthecuff/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/playoffthecuff/playoffthecuff/output/github-snake.svg" />
-</picture>](url) -->
+</picture>](url)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/playoffthecuff)
